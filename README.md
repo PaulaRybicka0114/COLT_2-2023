@@ -1,2 +1,6 @@
 # COLT_2-2023
 CherryIT Collaborative Testing project
+
+### About me
+Hi, my name is Paulina. I enjoy learning and practising as an aspiring QA. I am very happy to have finally found an area in which I can successfully and happily grow. High-quality services and products are part of life satisfaction. It satisfies me that in the future I can become someone who cares about this professionally. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field.
+I do not have any commercial experience at the moment. However, in my last job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular. 
